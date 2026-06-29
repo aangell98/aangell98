@@ -29,9 +29,9 @@ Computer Engineer specialized in Cloud and AI. I build cloud architectures on Az
 
 ### Certifications
 
-[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials?tab=credentials-tab)
-[![DP-900](https://img.shields.io/badge/Microsoft%20Certified-DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials?tab=credentials-tab)
-[![AI-900](https://img.shields.io/badge/Microsoft%20Certified-AI--900%20AI%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials?tab=credentials-tab)
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials/4a28e43bae9bd17?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![DP-900](https://img.shields.io/badge/Microsoft%20Certified-DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials/af6a368f9fa5ac25?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![AI-900](https://img.shields.io/badge/Microsoft%20Certified-AI--900%20AI%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/angelluislaramartin-9888/credentials/75ed5e0b82e24c7f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ### Featured projects
 
