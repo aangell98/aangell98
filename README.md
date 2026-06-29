@@ -1,28 +1,43 @@
-<h1 align="center">Hi, I'm Ángel Luis Lara Martín</h1>
-<p align="center">
-  <b>Computer Engineer | Cloud &amp; AI</b><br>
-  Cloud &amp; AI Specialist Intern at Microsoft · Madrid, Spain
-</p>
+<h1 align="center">Ángel Luis Lara Martín</h1>
+<p align="center"><b>Computer Engineer | Cloud &amp; AI</b></p>
+<p align="center">Cloud &amp; AI Specialist Intern at Microsoft · Madrid, Spain</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-soon-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aangell98&label=Profile%20views&color=1F4E79&style=flat" alt="views"></p>
 
 ---
 
-### About me
+### English
 
 Computer Engineer specialized in Cloud and AI. I build cloud architectures on Azure and AWS, AI agents and RAG systems, and full stack applications. Focused on shipping things that deliver measurable value. Fast learner, proactive and curious.
 
 - Currently: Cloud &amp; AI Specialist Intern @ Microsoft
-- Education: BSc Computer Engineering (Information Systems), University of Castilla-La Mancha
+- BSc Computer Engineering (Information Systems), University of Castilla-La Mancha
 - Certifications: AZ-900, DP-900, AI-900
 - Languages: Spanish (native), English (C1)
 
-### Featured project: Entangle (Bachelor's Thesis)
+<details>
+<summary><b>Español</b></summary>
 
-Mapping, analysis and visualization of the open-source quantum computing ecosystem on GitHub.
+<br>
+
+Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas cloud en Azure y AWS, agentes de IA y sistemas RAG, y aplicaciones full stack. Enfocado en entregar valor medible. Proactivo, curioso y con gran capacidad de aprendizaje.
+
+- Actualmente: Cloud &amp; AI Specialist Intern @ Microsoft
+- Grado en Ingeniería Informática (Sistemas de la Información), Universidad de Castilla-La Mancha
+- Certificaciones: AZ-900, DP-900, AI-900
+- Idiomas: Español (nativo), Inglés (C1)
+
+</details>
+
+### Featured project: Entangle · Proyecto destacado
+
+Mapping, analysis and visualization of the open-source quantum computing ecosystem on GitHub. *(Bachelor's Thesis / Trabajo Fin de Grado)*
 
 - Config-driven AI agent of 6 workers with RAG over a vector store (~11k fragments), 96.7% routing accuracy
 - Detected maintenance risk in 81.7% of the analyzed repositories
@@ -41,12 +56,10 @@ Mapping, analysis and visualization of the open-source quantum computing ecosyst
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### GitHub stats
+### Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aangell98&show_icons=true&hide_border=true" height="160" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aangell98&layout=compact&hide_border=true" height="160" alt="top langs">
-</p>
+[![LinkedIn](https://img.shields.io/badge/-angelllm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelllm)
+[![GitHub](https://img.shields.io/badge/-aangell98-181717?style=flat&logo=github&logoColor=white)](https://github.com/aangell98)
+[![Followers](https://img.shields.io/github/followers/aangell98?style=flat&label=Followers&color=1F4E79)](https://github.com/aangell98?tab=followers)
 
-<p align="center"><i>Portfolio website coming soon.</i></p>
-
+<p align="center"><i>Portfolio website coming soon · github.com/aangell98/portfolio</i></p>
