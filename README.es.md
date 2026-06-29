@@ -27,6 +27,12 @@ Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas clou
 - Certificaciones: AZ-900, DP-900, AI-900
 - Idiomas: Español (nativo), Inglés (C1)
 
+### Certificaciones
+
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
+[![DP-900](https://img.shields.io/badge/Microsoft%20Certified-DP--900%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/)
+[![AI-900](https://img.shields.io/badge/Microsoft%20Certified-AI--900%20AI%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/)
+
 ### Proyectos destacados
 
 | Proyecto | Descripción |
