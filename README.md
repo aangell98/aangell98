@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Ángel Luis Lara Martín</h1>
 <p align="center">
-  <b>Computer Engineer | Cloud &amp; AI Specialist</b><br>
+  <b>Computer Engineer | Cloud &amp; AI</b><br>
   Cloud &amp; AI Specialist Intern at Microsoft · Madrid, Spain
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:angelluislara@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -45,7 +44,7 @@ Mapping, analysis and visualization of the open-source quantum computing ecosyst
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aangell98&show_icons=true&hide_border=true&theme=default" height="160" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aangell98&show_icons=true&hide_border=true" height="160" alt="stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aangell98&layout=compact&hide_border=true" height="160" alt="top langs">
 </p>
 
