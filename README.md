@@ -1,17 +1,20 @@
 <p align="center"><b>English</b> · <a href="README.es.md">Español</a></p>
 
-<h1 align="center">Ángel Luis Lara Martín</h1>
-<p align="center"><b>Computer Engineer | Cloud &amp; AI</b></p>
-<p align="center">Cloud &amp; AI Specialist Intern at Microsoft · Madrid, Spain</p>
+<p align="center">
+  <img src="banner.png" alt="Ángel Luis Lara Martín - Computer Engineer | Cloud & AI" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-soon-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/aangell98/aangell98/raw/main/cv/CV_EN.pdf"><img src="https://img.shields.io/badge/Download%20CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-soon-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aangell98&label=Profile%20views&color=1F4E79&style=flat" alt="views"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20opportunities-2EA44F?style=flat" alt="Open to opportunities">
+  <img src="https://komarev.com/ghpvc/?username=aangell98&label=Profile%20views&color=1F4E79&style=flat" alt="views">
+</p>
 
 ---
 
@@ -24,19 +27,27 @@ Computer Engineer specialized in Cloud and AI. I build cloud architectures on Az
 - Certifications: AZ-900, DP-900, AI-900
 - Languages: Spanish (native), English (C1)
 
-### Featured project: Entangle
+### Featured projects
 
-Mapping, analysis and visualization of the open-source quantum computing ecosystem on GitHub. *(Bachelor's Thesis)*
+| Project | Description |
+| :-- | :-- |
+| **[Entangle](https://github.com/aangell98) ·** *Bachelor's Thesis* | Config-driven AI agent (6 workers) with RAG that maps and analyzes the open-source quantum computing ecosystem on GitHub. 96.7% routing accuracy, 1,087 tests. |
+| **[insurance-ai-agents](https://github.com/aangell98/insurance-ai-agents)** | Multi-agent AI claims processing for insurance. Governed, secure and auditable. Azure OpenAI. |
+| **[sales-cockpit-ai-agents](https://github.com/aangell98/sales-cockpit-ai-agents)** | White-label agentic sales cockpit + a Copilot in Microsoft Teams for relationship bankers. |
+| **[policyforge](https://github.com/aangell98/policyforge)** | AI policy and compliance factory: turns regulatory change into an explainable, auditable diff. |
 
-- Config-driven AI agent of 6 workers with RAG over a vector store (~11k fragments), 96.7% routing accuracy
-- Detected maintenance risk in 81.7% of the analyzed repositories
-- 1,087 automated tests, 0.96 modularity. Stack: Python, React, Azure OpenAI, Cosmos DB, Docker
+### Currently working on
+
+- Designing scalable cloud and AI solutions at Microsoft
+- Building my personal **[portfolio](https://github.com/aangell98/portfolio)** website
+- Exploring agentic AI, RAG and the Microsoft Agent Framework
 
 ### Tech stack
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)

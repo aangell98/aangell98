@@ -1,17 +1,20 @@
 <p align="center"><a href="README.md">English</a> · <b>Español</b></p>
 
-<h1 align="center">Ángel Luis Lara Martín</h1>
-<p align="center"><b>Ingeniero Informático | Cloud e IA</b></p>
-<p align="center">Cloud &amp; AI Specialist Intern en Microsoft · Madrid, España</p>
+<p align="center">
+  <img src="banner.png" alt="Ángel Luis Lara Martín - Ingeniero Informático | Cloud e IA" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-pronto-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/aangell98/aangell98/raw/main/cv/CV_ES.pdf"><img src="https://img.shields.io/badge/Descargar%20CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"></a>
+  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-pronto-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aangell98&label=Visitas%20al%20perfil&color=1F4E79&style=flat" alt="visitas"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-2EA44F?style=flat" alt="Abierto a oportunidades">
+  <img src="https://komarev.com/ghpvc/?username=aangell98&label=Visitas%20al%20perfil&color=1F4E79&style=flat" alt="visitas">
+</p>
 
 ---
 
@@ -24,19 +27,27 @@ Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas clou
 - Certificaciones: AZ-900, DP-900, AI-900
 - Idiomas: Español (nativo), Inglés (C1)
 
-### Proyecto destacado: Entangle
+### Proyectos destacados
 
-Mapeo, análisis y visualización del ecosistema open source de computación cuántica en GitHub. *(Trabajo Fin de Grado)*
+| Proyecto | Descripción |
+| :-- | :-- |
+| **[Entangle](https://github.com/aangell98) ·** *Trabajo Fin de Grado* | Agente de IA config-driven (6 workers) con RAG que mapea y analiza el ecosistema open source de computación cuántica en GitHub. 96,7% de acierto de enrutado, 1.087 tests. |
+| **[insurance-ai-agents](https://github.com/aangell98/insurance-ai-agents)** | Procesamiento multiagente de siniestros de seguros. Gobernado, seguro y auditable. Azure OpenAI. |
+| **[sales-cockpit-ai-agents](https://github.com/aangell98/sales-cockpit-ai-agents)** | Cockpit comercial agéntico white-label + un Copilot en Microsoft Teams para banqueros. |
+| **[policyforge](https://github.com/aangell98/policyforge)** | Fábrica de políticas y cumplimiento con IA: convierte el cambio normativo en un diff explicable y auditable. |
 
-- Agente de IA config-driven de 6 workers con RAG sobre vector store (~11k fragmentos), 96,7% de acierto de enrutado
-- Detección de riesgo de mantenimiento en el 81,7% de los repositorios analizados
-- 1.087 tests automatizados, modularidad 0,96. Stack: Python, React, Azure OpenAI, Cosmos DB, Docker
+### Ahora mismo
+
+- Diseñando soluciones cloud e IA escalables en Microsoft
+- Construyendo mi web de **[portfolio](https://github.com/aangell98/portfolio)**
+- Explorando IA agéntica, RAG y el Microsoft Agent Framework
 
 ### Tecnologías
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
