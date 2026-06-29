@@ -1,3 +1,5 @@
+<p align="center"><b>English</b> · <a href="README.es.md">Español</a></p>
+
 <h1 align="center">Ángel Luis Lara Martín</h1>
 <p align="center"><b>Computer Engineer | Cloud &amp; AI</b></p>
 <p align="center">Cloud &amp; AI Specialist Intern at Microsoft · Madrid, Spain</p>
@@ -12,7 +14,7 @@
 
 ---
 
-### English
+### About me
 
 Computer Engineer specialized in Cloud and AI. I build cloud architectures on Azure and AWS, AI agents and RAG systems, and full stack applications. Focused on shipping things that deliver measurable value. Fast learner, proactive and curious.
 
@@ -21,23 +23,9 @@ Computer Engineer specialized in Cloud and AI. I build cloud architectures on Az
 - Certifications: AZ-900, DP-900, AI-900
 - Languages: Spanish (native), English (C1)
 
-<details>
-<summary><b>Español</b></summary>
+### Featured project: Entangle
 
-<br>
-
-Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas cloud en Azure y AWS, agentes de IA y sistemas RAG, y aplicaciones full stack. Enfocado en entregar valor medible. Proactivo, curioso y con gran capacidad de aprendizaje.
-
-- Actualmente: Cloud &amp; AI Specialist Intern @ Microsoft
-- Grado en Ingeniería Informática (Sistemas de la Información), Universidad de Castilla-La Mancha
-- Certificaciones: AZ-900, DP-900, AI-900
-- Idiomas: Español (nativo), Inglés (C1)
-
-</details>
-
-### Featured project: Entangle · Proyecto destacado
-
-Mapping, analysis and visualization of the open-source quantum computing ecosystem on GitHub. *(Bachelor's Thesis / Trabajo Fin de Grado)*
+Mapping, analysis and visualization of the open-source quantum computing ecosystem on GitHub. *(Bachelor's Thesis)*
 
 - Config-driven AI agent of 6 workers with RAG over a vector store (~11k fragments), 96.7% routing accuracy
 - Detected maintenance risk in 81.7% of the analyzed repositories
