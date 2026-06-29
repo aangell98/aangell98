@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-pronto-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/aangell98/aangell98/raw/main/cv/CV_ES.pdf"><img src="https://img.shields.io/badge/Descargar%20CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=aangell98&label=Visitas%20al%20perfil&color=1F4E79&style=flat" alt="visitas"></p>
