@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/angelllm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:angelluislara@hotmail.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://github.com/aangell98/aangell98/raw/main/cv/CV_ES.pdf"><img src="https://img.shields.io/badge/Descargar%20CV-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"></a>
-  <a href="https://github.com/aangell98/portfolio"><img src="https://img.shields.io/badge/Portfolio-pronto-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://aangell98.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-En%20vivo-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -68,4 +68,4 @@ Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas clou
 [![GitHub](https://img.shields.io/badge/-aangell98-181717?style=flat&logo=github&logoColor=white)](https://github.com/aangell98)
 [![Seguidores](https://img.shields.io/github/followers/aangell98?style=flat&label=Seguidores&color=1F4E79)](https://github.com/aangell98?tab=followers)
 
-<p align="center"><i>Web de portfolio próximamente · github.com/aangell98/portfolio</i></p>
+<p align="center"><i>Portfolio en vivo &middot; aangell98.github.io/portfolio</i></p>
