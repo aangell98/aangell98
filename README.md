@@ -22,7 +22,7 @@
 
 Computer Engineer specialized in Cloud and AI. I build cloud architectures on Azure and AWS, AI agents and RAG systems, and full stack applications. Focused on shipping things that deliver measurable value. Fast learner, proactive and curious.
 
-- Previous: Cloud &amp; AI Specialist Intern @ Microsoft (Jan 2026 - Sep 2026)
+- Previous: Cloud &amp; AI Solution Engineer @ Microsoft (Jan 2026 - Sep 2026)
 - BSc Computer Engineering (Information Systems), University of Castilla-La Mancha
 - Certifications: AZ-900, DP-900, AI-900
 - Languages: Spanish (native), English (C1)
