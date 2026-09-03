@@ -22,7 +22,7 @@
 
 Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas cloud en Azure y AWS, agentes de IA y sistemas RAG, y aplicaciones full stack. Enfocado en entregar valor medible. Proactivo, curioso y con gran capacidad de aprendizaje.
 
-- Actualmente: Cloud &amp; AI Specialist Intern @ Microsoft
+- Anteriormente: Cloud &amp; AI Specialist Intern @ Microsoft (Ene 2026 - Sep 2026)
 - Grado en Ingeniería Informática (Sistemas de la Información), Universidad de Castilla-La Mancha
 - Certificaciones: AZ-900, DP-900, AI-900
 - Idiomas: Español (nativo), Inglés (C1)
@@ -44,7 +44,7 @@ Ingeniero Informático especializado en Cloud e IA. Construyo arquitecturas clou
 
 ### Ahora mismo
 
-- Diseñando soluciones cloud e IA escalables en Microsoft
+- Diseñando soluciones cloud e IA escalables
 - Construyendo mi web de **[portfolio](https://github.com/aangell98/portfolio)**
 - Explorando IA agéntica, RAG y el Microsoft Agent Framework
 
